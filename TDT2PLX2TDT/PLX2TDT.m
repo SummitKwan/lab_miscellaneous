@@ -63,13 +63,14 @@ end
 
 tscounts(:,1) = []; % remove empty channel
 
-[npossunits,nchans] = size(tscounts);
 
+[npossunits,nchans] = size(tscounts);
 
 n    = zeros(size(tscounts));
 ts   = cell(1,nchans);
 unit = cell(1,nchans);
 for i = 1:nchans
+
     fprintf('\n\tChannel %d\n',i)
     for j = 1:npossunits
         if ~tscounts(j,i), continue; end

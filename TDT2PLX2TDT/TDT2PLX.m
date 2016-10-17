@@ -120,6 +120,9 @@ for i = 1:length(blocks)
     d.data = d.data * 1e6; % scale for Plexon
     
     channels = unique(d.chan);
+    % [[[[[[[[[[ to keep a slot for empty channels
+    channels = (1:max(d.chan))';
+    % ]]]]]]]]]]
     
     if i == 1
         ts   = cell(512,1);
@@ -138,7 +141,7 @@ for i = 1:length(blocks)
     for ch = channels'
         ind = d.chan == ch;
         n = sum(ind);
-        if ~n, continue; end
+        % if ~n, continue; end
         % [[[[[[[[[[ change increment to the length of block
         ts{ch}(end+1:end+n)     = d.ts(ind) + ts_increment_before;
         % ]]]]]]]]]]
@@ -159,10 +162,15 @@ end
 maxts = max(cell2mat(ts'));
 
 emptychs = cellfun(@isempty,ts);
+% [[[[[[[[[[ to keep a slot for empty channels
+emptychs = (1:length(ts)>max(channels))';
+% ]]]]]]]]]]
 ts(emptychs)   = [];
 wave(emptychs) = [];
 sort(emptychs) = [];
 validchs = find(~emptychs)';
+
+
 
 % get block ids for file name
 % [[[[[[[[[[

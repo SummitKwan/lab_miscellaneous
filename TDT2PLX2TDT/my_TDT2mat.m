@@ -86,7 +86,7 @@ CHANNEL  = 0;
 STORE    = '';
 TTX      = [];
 
-MAXEVENTS = 1e6;
+MAXEVENTS = 1e7;
 MAXCHANNELS = 1024;
 
 % [[[[[[[[[[

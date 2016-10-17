@@ -12,6 +12,7 @@ function dataman_TDT(varargin)
 % ---------- Shaobo Guan, 2014-0730, WED ----------
 % Sheinberg lab, Brown University, USA, Shaobo_Guan@brown.edu
 
+set_default_data_path;
 
 % default date to convert
 date_convert = date;
@@ -60,7 +61,7 @@ if strcmp(date_convert, 'dat')
 else
 
     % location of data tank
-    tank = uigetdir('T:\tdt_tanks\');
+    tank = uigetdir(DEFAULT_TANK_PATH);
     % tank = 'T:\tdt_tanks\PowerPac_32C';
 
     % translate the date to posivle strings contained in the file name    
@@ -83,27 +84,49 @@ end
 display(['----------', 10]);
 
 %% convert using my_TDT2mat
-name_converted = {};
-for i=1:length(name_block_cell)
-    display(['converting: ',name_block_cell{i}]);
-    
-    [~, name_save]= my_TDT2mat(tank,...
-         name_block_cell{i}, 'EXCLUDE', {'raws'}, 'NODATA', false,...
-         'SORTNAME', 'PLX', 'SAVE', true, 'VERBOSE', false);
+if tf_upload_mat
+    name_converted = {};
+    for i=1:length(name_block_cell)
+        display(['converting: ',name_block_cell{i}]);
 
-    name_converted = [name_converted, {name_save}];
-    display(['generated : ', name_converted{i}, 10]); 
-end
+        [~, name_save]= my_TDT2mat(tank,...
+             name_block_cell{i}, 'EXCLUDE', {'raws'}, 'NODATA', false,...
+             'SORTNAME', 'PLX', 'SAVE', true, 'VERBOSE', false);
 
-% upload covnerted file
-display([10, 'the blocks successfully uploaded are: ', 10, '----------']);
-for i=1:length(name_converted)
+        name_converted = [name_converted, {name_save}];
+        display(['generated : ', name_converted{i}, 10]); 
+    end
+
     % upload covnerted file
-    copyfile([name_converted{i},'.mat'], dir_store);
-    % display block names to upload
-    display(name_converted{i});
+    display([10, 'the blocks successfully uploaded are: ', 10, '----------']);
+    for i=1:length(name_converted)
+        % upload covnerted file
+        movefile([name_converted{i},'.mat'], dir_store);
+        % display block names to upload
+        display(name_converted{i});
+    end
+    display(['----------', 10]);
 end
-display(['----------', 10]);
+
+if tf_upload_tdt
+    [~,name_tank,~] = fileparts(tank);
+    tank_store = fullfile(DEFAULT_TANK_PATH_STORE, name_tank);
+    if exist( tank_store ) ~=7
+        mkdir( tank_store );
+        if exist(fullfile(tank,'desktop.ini'))
+            copyfile(fullfile(tank,'desktop.ini'), fullfile(tank_store,'desktop.ini'));
+        end
+    end
+    for i=1:length(name_block_cell)
+        copyfile( fullfile(tank, blocks{i}), fullfile(tank_store, blocks{i}));
+        display(['copied block: ', blocks{i}]);
+    end
+    if strcmp(date_convert, 'dat') && tf_upload_plx
+        copyfile([fullfile(datfilepath, datfilename_no_ext) ,'*'], tank_store);
+        display('spike sorting related files copied: ');
+        dir(tank_store);
+    end
+end
 
 display(['data converting and uploading finished']);
 

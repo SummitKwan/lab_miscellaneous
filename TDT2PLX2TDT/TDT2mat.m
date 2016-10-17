@@ -54,7 +54,7 @@ CHANNEL  = 0;
 STORE    = '';
 TTX      = [];
 
-MAXEVENTS = 1e6;
+MAXEVENTS = 1e7;  % make big enough 
 MAXCHANNELS = 1024;
 
 % parse varargin

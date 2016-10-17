@@ -15,6 +15,17 @@ switch NAME_COMPUTER
         DEFAULT_TANK_PATH_STORE = 'L:/projects/encounter/data/TDT';
         % path on lab server for mat files, remote
         DEFAULT_MAT_PATH_STORE = 'L:/tdt/export_mat';
+    
+    case 'TDTBOOTH2'
+        % path for plx files, local
+        DEFAULT_PLX_PATH = 'C:/PLX_combined/';  
+        % path for TDT tanks, local
+        DEFAULT_TANK_PATH = 'C:/TDT/Synapse/Tanks';
+        % path on lab server for tdt tank, remote
+        DEFAULT_TANK_PATH_STORE = 'L:/projects/encounter/data/TDT';
+        % path on lab server for mat files, remote
+        DEFAULT_MAT_PATH_STORE = 'L:/tdt/export_mat';
+    
     otherwise
         fprintf('the computer %s is not listed, can not get default paths \n', NAME_COMPUTER);
         DEFAULT_PLX_PATH = './';
