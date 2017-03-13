@@ -2,8 +2,507 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e45fa39d-941e-4faa-9c44-b41289550a1f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/perceptron_demo/perceptron.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T0_i9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T1_i9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T2_i9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T3_i9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T4_i9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T5_i9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T6_i9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T7_i9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T8_i9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perceptron_demo/temp_figs/perceptron_T9_i9.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/perceptron_demo/perceptron.py" afterPath="$PROJECT_DIR$/perceptron_demo/perceptron.py" />
     </list>
     <ignored path="lab_miscellaneous.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +525,8 @@
       <file leaf-file-name="perceptron.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/perceptron_demo/perceptron.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="108" column="7" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
+            <state relative-caret-position="287">
+              <caret line="214" column="0" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
               <folding>
                 <element signature="e#124#142#0" expanded="true" />
               </folding>
@@ -57,7 +556,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="383" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
   </component>
@@ -86,6 +585,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lab_miscellaneous">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -130,20 +643,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="fractal_generator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="lab_miscellaneous">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -316,14 +815,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="383" width="1440" height="829" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="829" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4460888" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19309373" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5264586" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24954017" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -358,9 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#183#201#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -368,9 +864,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#183#201#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -399,16 +892,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
-          <folding>
-            <element signature="e#183#201#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/perceptron_demo/perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="108" column="7" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
+        <state relative-caret-position="287">
+          <caret line="214" column="0" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
           <folding>
             <element signature="e#124#142#0" expanded="true" />
           </folding>
